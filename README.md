@@ -1,1 +1,2 @@
 # Detection-of-Malicious-Social-Bots
+The project aims to develop a Python-based system to detect malicious social bots on social media platforms. These bots can spread misinformation, spam, and malicious content, thus posing a significant threat to online communities and information integrity. By leveraging machine learning techniques, natural language processing (NLP),data analysis,Artificial Intelligence and decision tree the system will identify and mitigate the impact of such bots.
